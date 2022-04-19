@@ -23,7 +23,7 @@ class PruebaSuma(unittest.TestCase):
     def test_operacionSuma_dosNumerosNegativos_retornaSuma(self):
         # Arrange
         self.sumando1=-3
-        self.sumando2=-7
+        self.sumando2=-8
         self.resultadoesperado=-10
 
         # Do
